@@ -1,0 +1,11 @@
+]0;~/Data Specialization/Temporary_add_to_version_control[?1034hKara-Hunersens-MacBook-Pro:Temporary_add_to_version_control karahunersen$ [KKara-Hunersens-MacBook-Pro:Temporary_add_to_version_control karahunersen$ cd ~/data specializtion[K[K[K[Kation/te mporar[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[KTe mo[Kporary_add_to_version_control
+bash: cd: /Users/karahunersen/data: No such file or directory
+]0;~/Data Specialization/Temporary_add_to_version_controlKara-Hunersens-MacBook-Pro:Temporary_add_to_version_control karahunersen$ cd ~/users/karahunersen/dat aspecialization/temporary_add_to_version_control
+bash: cd: /Users/karahunersen/users/karahunersen/dataspecialization/temporary_add_to_version_control: No such file or directory
+]0;~/Data Specialization/Temporary_add_to_version_controlKara-Hunersens-MacBook-Pro:Temporary_add_to_version_control karahunersen$ git init
+Initialized empty Git repository in /Users/karahunersen/Data Specialization/Temporary_add_to_version_control/.git/
+]0;~/Data Specialization/Temporary_add_to_version_controlKara-Hunersens-MacBook-Pro:Temporary_add_to_version_control karahunersen$ git aa[Kdd
+Nothing specified, nothing added.
+Maybe you wanted to say 'git add .'?
+]0;~/Data Specialization/Temporary_add_to_version_controlKara-Hunersens-MacBook-Pro:Temporary_add_to_version_control karahunersen$ git add .
